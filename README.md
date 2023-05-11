@@ -1,3 +1,3 @@
 # ChatGPT-assistant-python
 
-Trying chatGPT as a assitant for data science.
+Trying chatGPT as an assistant for data science.
